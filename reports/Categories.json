@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Custom defects",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Найден id элемента",
+    "matchedStatuses": ["passed"]
+  }
+]
